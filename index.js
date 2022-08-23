@@ -42,4 +42,4 @@ for (var i = 0; i < questions.length; i++) {
   var currentQuestion = questions[i];
   play(currentQuestion.question, currentQuestion.answer);
 }
-console.log("YAY!YOU SCORED ", score);
+console.log("YAY! YOU SCORED: ", score);
